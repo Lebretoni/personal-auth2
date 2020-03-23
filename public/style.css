@@ -1,0 +1,33 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  /* background-color: #00BFFF; */
+}
+img{
+  height: 200px;
+}
+body {
+  background-image: url("flash.png");
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  text-align: center;
+}
+.hide {
+  display: none;
+}
+.hide2 {
+  display: none;
+}
+h2 {
+  margin-top: 30%;
+}
+ {
+  display: none;
+}
+.hide3 {
+  display: none;
+}
+
+ul li {
+  list-style-type: none;
+}
