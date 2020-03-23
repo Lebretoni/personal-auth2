@@ -1,5 +1,5 @@
 # personal-auth2
-![](public/thumbnail)
+![](public/thumbnail.png)
 ## Installation
 1. Clone repo
 2. run `npm install`
